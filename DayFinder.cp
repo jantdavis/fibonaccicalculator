@@ -1,5 +1,5 @@
 /**
-    * Progam will display the day of the week for any given date and will determine whether it's a leap year or not.
+    * Program will display the day of the week for any given date and will determine whether it's a leap year or not.
     * @author Jordan Davis
     * <pre>
     * fILE: DayFinder.cpp
